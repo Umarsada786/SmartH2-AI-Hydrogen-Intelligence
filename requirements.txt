@@ -1,0 +1,13 @@
+TensorFlow
+Keras
+PyTorch
+FastAPI
+Kafka
+TimescaleDB
+PostgreSQL
+Redis
+React
+Pandas
+NumPy
+Scikit-learn
+XGBoost
