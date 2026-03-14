@@ -1,6 +1,6 @@
 # SmartH2-AI-Hydrogen-Intelligence
 AI-Powered Hydrogen Production Intelligence System - LSTM forecasting, predictive maintenance, grid balancing
-# SmartH2: AI-Powered Hydrogen Production Intelligence System
+
 
 ## 🌍 Project Overview
 
