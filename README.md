@@ -1,6 +1,6 @@
-![GitHub stars](https://img.shields.io/github/stars/UmarSada786/SmartH2-AI-Hydrogen-Intelligence)
-![GitHub forks](https://img.shields.io/github/forks/UmarSada786/SmartH2-AI-Hydrogen-Intelligence)
-![GitHub license](https://img.shields.io/github/license/UmarSada786/SmartH2-AI-Hydrogen-Intelligence)
+![GitHub stars](https://img.shields.io/github/stars/UmarSada786/SmartH2-AI-Hydrogen-Intelligence?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/UmarSada786/SmartH2-AI-Hydrogen-Intelligence?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/UmarSada786/SmartH2-AI-Hydrogen-Intelligence?style=flat-square)
 
 # SmartH2-AI-Hydrogen-Intelligence
 AI-Powered Hydrogen Production Intelligence System - LSTM forecasting, predictive maintenance, grid balancing
