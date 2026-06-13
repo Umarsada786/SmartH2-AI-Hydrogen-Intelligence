@@ -33,11 +33,11 @@ Hydrogen is emerging as a critical energy carrier for achieving global decarboni
 
 SmartH2 solves this using an integrated AI system:
 
-🤖 Machine Learning Forecasting (LSTM, XGBoost)
-⚡ Real-time Grid Optimization
-🛡️ Predictive Maintenance System
-📊 Live Monitoring Dashboard
-🔗 REST APIs for integration
+Machine Learning Forecasting (LSTM, XGBoost)
+Real-time Grid Optimization
+Predictive Maintenance System
+Live Monitoring Dashboard
+REST APIs for integration
 
 ## ✨ Key Features
 
