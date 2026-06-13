@@ -1,6 +1,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/UmarSada786/SmartH2-AI-Hydrogen-Intelligence?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/UmarSada786/SmartH2-AI-Hydrogen-Intelligence?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/UmarSada786/SmartH2-AI-Hydrogen-Intelligence?style=flat-square)
+
 
 # SmartH2-AI-Hydrogen-Intelligence
 AI-Powered Hydrogen Production Intelligence System - LSTM forecasting, predictive maintenance, grid balancing
@@ -30,6 +30,14 @@ Hydrogen is emerging as a critical energy carrier for achieving global decarboni
 5. **REST APIs** - Easy integration with existing systems
 
 ---
+
+SmartH2 solves this using an integrated AI system:
+
+🤖 Machine Learning Forecasting (LSTM, XGBoost)
+⚡ Real-time Grid Optimization
+🛡️ Predictive Maintenance System
+📊 Live Monitoring Dashboard
+🔗 REST APIs for integration
 
 ## ✨ Key Features
 
